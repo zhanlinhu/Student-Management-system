@@ -10,31 +10,31 @@
         <div style="margin: 10px">
             <form class="layui-form layui-form-pane">
                 <div class="layui-form-item">
-                    <div class="layui-inline">
-                        <label class="layui-form-label">专业</label>
-                        <div class="layui-input-inline">
-                            <select name="subjectId" lay-filter="subjectId">
-                                <option value="">请选择</option>
-                                <c:forEach items="${subjects}" var="subject">
-                                    <option value="${subject.id}">${subject.subjectName}</option>
-                                </c:forEach>
-                            </select>
-                        </div>
-                    </div>
-                    <div class="layui-inline">
-                        <label class="layui-form-label">班级</label>
-                        <div class="layui-input-inline">
-                            <select name="clazzId" lay-filter="subjectId">
-                                <option value="">请选择</option>
-                                <c:forEach items="${clazzes}" var="clazz">
-                                    <option value="${clazz.id}">${clazz.clazzName}</option>
-                                </c:forEach>
-                            </select>
-                        </div>
-                    </div>
-                    <div class="layui-inline">
-                        <button class="layui-btn layui-btn-primary"  lay-submit lay-filter="search-btn"><i class="layui-icon"></i> 搜 索</button>
-                    </div>
+<%--                    <div class="layui-inline">--%>
+<%--                        <label class="layui-form-label">专业</label>--%>
+<%--                        <div class="layui-input-inline">--%>
+<%--                            <select name="subjectId" lay-filter="subjectId">--%>
+<%--                                <option value="">请选择</option>--%>
+<%--                                <c:forEach items="${subjects}" var="subject">--%>
+<%--                                    <option value="${subject.id}">${subject.subjectName}</option>--%>
+<%--                                </c:forEach>--%>
+<%--                            </select>--%>
+<%--                        </div>--%>
+<%--                    </div>--%>
+<%--                    <div class="layui-inline">--%>
+<%--                        <label class="layui-form-label">班级</label>--%>
+<%--                        <div class="layui-input-inline">--%>
+<%--                            <select name="clazzId" lay-filter="subjectId">--%>
+<%--                                <option value="">请选择</option>--%>
+<%--                                <c:forEach items="${clazzes}" var="clazz">--%>
+<%--                                    <option value="${clazz.id}">${clazz.clazzName}</option>--%>
+<%--                                </c:forEach>--%>
+<%--                            </select>--%>
+<%--                        </div>--%>
+<%--                    </div>--%>
+<%--                    <div class="layui-inline">--%>
+<%--                        <button class="layui-btn layui-btn-primary"  lay-submit lay-filter="search-btn"><i class="layui-icon"></i> 搜 索</button>--%>
+<%--                    </div>--%>
                 </div>
             </form>
         </div>
