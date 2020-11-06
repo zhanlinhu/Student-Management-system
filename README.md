@@ -20,3 +20,6 @@
 老师管理页面
 ![Image text](https://github.com/ZhouQianyou/Student-Management-system/blob/master/images/%E8%80%81%E5%B8%88%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.png)
 
+idea页面
+![Image text](https://github.com/ZhouQianyou/Student-Management-system/blob/master/images/idea.png)
+
