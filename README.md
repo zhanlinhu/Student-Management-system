@@ -4,6 +4,7 @@
 登录页面：
 ![Image text](https://github.com/ZhouQianyou/Student-Management-system/blob/master/images/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)
 
+![Image text](https://github.com/ZhouQianyou/Student-Management-system/blob/master/images/%E5%86%99%E5%8D%9A%E5%AE%A2.png)
 
 管理员管理页面：
 ![Image text](https://github.com/ZhouQianyou/Student-Management-system/blob/master/images/%E7%AE%A1%E7%90%86%E5%91%98%E5%BC%80%E8%AF%BE%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.png)
